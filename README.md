@@ -1,4 +1,4 @@
-# Arduino Menu Code
+# Arduino-Menu-Code
 Simple easy to understand full menu system for arduino.  No library required.
 
 ![menu_display](https://github.com/user-attachments/assets/f8289c96-ee5c-4a30-b8b3-e41b31a63f7f)
